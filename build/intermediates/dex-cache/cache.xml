@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\androidstudio_project\PahoAndroidMqttSample2\app\src\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="C:\androidstudio_project\PahoAndroidMqttSample2\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-f22afcaef4748cade78e863cf34df669a4767d14.jar" />
+    </item>
+    <item
+        jar="D:\android_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\androidstudio_project\PahoAndroidMqttSample2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-329fb9a56d9ef17587ce5a1e04b0a01d0c69d726.jar" />
+    </item>
+    <item
+        jar="C:\androidstudio_project\PahoAndroidMqttSample2\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.8\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="905a1a3170bf8e5f07e14217f5bdc2348f1425ca">
+        <dex dex="C:\androidstudio_project\PahoAndroidMqttSample2\app\build\intermediates\pre-dexed\debug\classes-138488e36de9f20b5845ce981b8410506645fb77.jar" />
+    </item>
+
+</items>
